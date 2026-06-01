@@ -1,0 +1,21 @@
+{
+  "name": "hierocles-of-alexandria",
+  "main": "src/index.js",
+  "compatibility_date": "2026-06-01",
+  "vars": {
+    "HF_ENDPOINT_URL": "https://atklkssc0gz1n3ke.us-east-1.aws.endpoints.huggingface.cloud/generate"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "value-detector",
+      "database_id": "8ed48afe-92fb-4602-8506-fec172fb2f80"
+    }
+  ],
+  "analytics_engine_datasets": [
+    {
+      "binding": "ANALYTICS_ENGINE",
+      "dataset": "value-detector-hierocles-of-alexandria"
+    }
+  ]
+}
