@@ -17,5 +17,11 @@
       "binding": "ANALYTICS_ENGINE",
       "dataset": "value-detector-hierocles-of-alexandria"
     }
-  ]
+  ],
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true
+    }
+  }
 }
