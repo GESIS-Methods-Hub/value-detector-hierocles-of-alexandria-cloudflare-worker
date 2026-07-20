@@ -12,7 +12,14 @@ Set [Secrets](https://dash.cloudflare.com/543d10d40ca98b5b3d758ea26ee2fd60/worke
 npx wrangler deploy
 ```
 
-## Save data
+## Generte API Key
+
+```{shell}
+./util/generate-api-key.sh
+```
+
+
+## Save Data
 
 ```{shell}
 export CLOUDFLARE_TOKEN="TOKEN"
