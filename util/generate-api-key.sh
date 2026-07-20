@@ -30,6 +30,8 @@ echo ""
 
 echo "----------------------------------------"
 echo "D1 INSERT VALUES"
+echo "https://dash.cloudflare.com/543d10d40ca98b5b3d758ea26ee2fd60/workers/d1/databases/8ed48afe-92fb-4602-8506-fec172fb2f80/studio"
+echo "table api_keys"
 echo "----------------------------------------"
 echo "key_hash:   $API_KEY_HASH"
 echo "----------------------------------------"

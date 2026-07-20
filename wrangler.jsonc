@@ -3,7 +3,7 @@
   "main": "src/index.js",
   "compatibility_date": "2026-06-01",
   "vars": {
-    "HF_ENDPOINT_URL": "https://d3rmeqa2xg61x8ik.us-east-1.aws.endpoints.huggingface.cloud"
+    "HF_ENDPOINT_URL": "https://d3rmeqa2xg61x8ik.us-east-1.aws.endpoints.huggingface.cloud/generate"
   },
   "d1_databases": [
     {
